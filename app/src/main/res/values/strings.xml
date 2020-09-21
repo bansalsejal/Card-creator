@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Card Creator</string>
+    <string name="greeting_name">GREETINGS!</string>
+    <string name="from_name"> From</string>
+    <string name="to_name">To</string>
+    <string name="heading_name">Heading</string>
+    <string name="message_name">Message</string>
+    <string name="create_name">CREATE</string>
+</resources>
